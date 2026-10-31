@@ -1,2 +1,2 @@
 # symix
-a linux kernel mixed with EKA2 compatibility layer. Made to run on S^3 smartphones
+Currently in a vegetative state. just an idea that hasnt been brought to life for now
